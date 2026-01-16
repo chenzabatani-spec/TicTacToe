@@ -41,7 +41,7 @@
         android:id="@+id/btnPlayAgain"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="play again"
+        android:text="@string/play_again"
         android:visibility="gone"
         android:layout_marginTop="20dp" />
 
